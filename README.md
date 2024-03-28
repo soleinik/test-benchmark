@@ -11,7 +11,7 @@ In case of DIY the following should do
 $ cargo bench 2>&1 | grep change
 change: [-2.3669% -2.1984% -2.0330%] (p = 0.00 < 0.05)
 ```
-and thn deal with parced out numbers, failing  build if performance drop is detected
+and then deal with parced out numbers, failing  build if performance drop is detected
 
 
 ## Prerequisits
